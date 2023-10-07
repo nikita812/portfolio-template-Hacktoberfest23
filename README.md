@@ -17,7 +17,7 @@ Create a Pull request and add any feature update to the repository.
 
 
 # Problem Statement
-I am trying to make a attractive portfolio template that once can directly pickup and customise it as per their use.
+I am trying to make a attractive portfolio template that one can directly pickup and customise it as per their use.
 
 ## Languages considered: 
 * HTML, CSS and JavaScript
